@@ -1,0 +1,4 @@
+Dense+ABC+184+8+8 =B
+Test_lp_loss : {:.4f}, test_lp_accuracy: {:.2f}
+Test_dc_loss: {:.4f}, Test_dc_accuracy: {:.2f}
+Test_target_lp_loss: {:.4f}, Test_target_lp_accuracy: {:.2f}
